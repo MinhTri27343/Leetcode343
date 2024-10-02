@@ -1,0 +1,25 @@
+Vocabulary: 
+Problem_08
+1. Encounter (v): gặp, bắt gặp, đối mặt
+2. Round (v): Làm tròn
+3. Specifically (adv): cụ thể
+Problem_10
+1. Match: phù hợp
+Problem_11
+1. Vertical: đứng 
+2. Vertex: đỉnh 
+3. Axis: trục
+4. Form (v): hình thành, tạo thành
+5. Form (n): biểu mẫu 
+6. Such that: để mà, sao cho, thoả mãn
+7. Slant (v): nghiêng
+8. Instance (n): phiên bản
+9. Overload (v): Nạp chồng (trong lập trình, chỉ việc định nghĩa nhiều hàm hoặc toán tử với cùng tên nhưng khác kiểu đối số)
+10. no instance of overloaded function "min" matches the argument list
+Problem_12
+1. Subtract (adj): trừ 
+2. Remainder (n): phần còn lại
+3. Power (n): bội, luý thừa
+4. Consecutively (adv): liên tiếp
+Proble_15
+1. Matter (v): vấn đề / quan trọng
