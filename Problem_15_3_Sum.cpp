@@ -19,7 +19,7 @@ vector<vector<int>> threeSum(vector<int>& nums)
     }
 }        
 // -1,0,1,2,-1,-4
-// -4 -1 -1 0 1 2
+// -3 2 0 2 123123
 int main()
 {
     return 0;
